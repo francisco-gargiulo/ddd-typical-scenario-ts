@@ -1,0 +1,1 @@
+# ddd-typical-scenario-ts
