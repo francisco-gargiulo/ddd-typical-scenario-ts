@@ -1,0 +1,19 @@
+{
+  "name": "ddd-typical-scenario-ts",
+  "version": "1.0.0",
+  "description": "This README provides an in-depth explanation of a TypeScript code example that demonstrates the DDD principles.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "DDD",
+    "TypeScript",
+    "Node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
